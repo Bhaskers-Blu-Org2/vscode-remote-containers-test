@@ -1,4 +1,4 @@
-# Try Out Development Containers
+# Try Out Development Containers - Minimal Sample
 
 This is a minimal sample project that lets you try out the **[VS Code Remote - Containers](https://aka.ms/vscode-remote/containers)** extension in a few easy steps.
 
